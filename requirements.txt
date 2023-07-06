@@ -1,0 +1,8 @@
+yfinance
+streamlit
+pyecharts
+prophet
+termcolor
+streamlit_echarts
+lightgbm
+pycaret==3.0.4
